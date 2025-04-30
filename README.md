@@ -26,7 +26,7 @@ Currently focused on building with **HTML, CSS, JavaScript, and React**.
 🛠️ Currently Working On
 💸 Debt Management System
 A web app to help manage customer debts and track itemized purchases, inspired by real experiences at a hardware store.
-🔗 https://github.com/Bma1/Debt-management-app-akariJuma1/Debt-management-app-
+🔗 https://github.com/Bma1/Debt-management-app-bakariJuma1/Debt-management-app-
 ## 📈 GitHub Stats
 ![Bakari's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakarijuma1&show_icons=true&theme=radical)
 
