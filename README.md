@@ -22,7 +22,11 @@ Currently focused on building with **HTML, CSS, JavaScript, and React**.
 - 📰 **Tech & Tunez Blog**  
   [🔗 Live Site](https://bakarijuma1.github.io/TECH-AND-TUNEZ/)  
   *A simple one-page blog where I share insights on technology and music.*
-
+  
+🛠️ Currently Working On
+💸 Debt Management System
+A web app to help manage customer debts and track itemized purchases, inspired by real experiences at a hardware store.
+🔗 https://github.com/Bma1/Debt-management-app-akariJuma1/Debt-management-app-
 ## 📈 GitHub Stats
 ![Bakari's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakarijuma1&show_icons=true&theme=radical)
 
