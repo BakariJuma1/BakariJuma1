@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Bakari Isaac Juma!
 
 ## 🚀 About Me
-I'm a passionate student of Software Engineering at **Moringa School**, on a journey to become one of the best developers out there.  
-Currently focused on building with **HTML, CSS, JavaScript, and React**.
+I'm a Software Engineer, on a journey to become one of the best developers out there.  
+Currently focused on building with **HTML, CSS, JavaScript, React,Python,Flask,Postgressql**.
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=bakarijuma1&color=brightgreen)
 
