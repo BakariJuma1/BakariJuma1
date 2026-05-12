@@ -1,5 +1,5 @@
 Bakari Isaac Juma
-Full-Stack Software Engineer — Python · Flask · React .FastApi
+Full-Stack Software Engineer  Python · Flask · React .FastApi
 I build and ship production systems that handle real users and real transactions. Currently working with clients in healthcare, e-commerce, and business — sole developer on platforms processing live M-Pesa and Paystack payments.
 Skills
 Frontend: React, JavaScript (ES6+), TailwindCSS, Responsive UI
